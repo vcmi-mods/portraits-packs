@@ -15,5 +15,9 @@
 		"portaits packs.stablediffusion ai portraits",
 		"portaits packs.aphra's stable diffusion portraits",
 		"portaits packs.remastered-portraits"
-    ]
+    ],
+	"czech" : {
+		"name" : "1. balíček portrétů",
+		"description" : "Balíček portrétů pro standardní hrdiny HoMM3."
+	}
 }

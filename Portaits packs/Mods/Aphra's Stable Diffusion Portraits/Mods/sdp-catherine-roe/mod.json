@@ -9,5 +9,9 @@
     "depends" :
     [
         "campaign-heroes"
-    ]
+    ],
+	"czech" : {
+		"name" : "SDP - Catherine (RoE)",
+		"description" : "Portrét hrdiny vygenerovaný pomocí Stable Diffusion od Aphra."
+	}
 }

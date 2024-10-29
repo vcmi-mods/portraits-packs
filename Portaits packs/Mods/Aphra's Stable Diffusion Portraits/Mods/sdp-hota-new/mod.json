@@ -9,5 +9,9 @@
     "depends" :
     [
         "hota.heroes"
-    ]
+    ],
+	"czech" : {
+		"name" : "SDP - Noví hrdinové HotA",
+		"description" : "Portréty nových hrdinů HotA vygenerované pomocí Stable Diffusion od @RonFish na pikabu.ru. Kompilováno a upraveno Aphrou."
+	}
 }

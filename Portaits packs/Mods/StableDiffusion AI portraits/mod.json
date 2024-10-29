@@ -15,5 +15,9 @@
 		"portaits packs.vallex portraits",
 		"portaits packs.aphra's stable diffusion portraits",
 		"portaits packs.remastered-portraits"
-    ]
+    ],
+	"czech" : {
+		"name" : "StableDiffusion AI portréty",
+		"description" : "Portréty pro Heroes 3 vytvořené pomocí algoritmu StableDiffusion AI"
+	}
 }

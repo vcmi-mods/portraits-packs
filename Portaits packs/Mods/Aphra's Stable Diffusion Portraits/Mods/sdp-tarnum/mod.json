@@ -9,5 +9,9 @@
     "depends" :
     [
         "tarnum"
-    ]
+    ],
+	"czech" : {
+		"name" : "SDP - Tarnum",
+		"description" : "Přepisuje 6 původních inkarnací Tarnuma a přidává další 3."
+	}
 }

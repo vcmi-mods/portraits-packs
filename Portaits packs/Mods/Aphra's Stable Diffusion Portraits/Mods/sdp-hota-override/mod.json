@@ -9,5 +9,9 @@
     "depends" :
     [
         "hota.heroes"
-    ]
+    ],
+	"czech" : {
+		"name" : "SDP - Přepsání HotA",
+		"description" : "Přepisuje HotA portréty."
+	}
 }

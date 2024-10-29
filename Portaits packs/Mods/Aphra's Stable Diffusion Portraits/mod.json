@@ -1,7 +1,7 @@
 {
 	"name" : "Stable Diffusion Portraits",
 	"description" : "Hero portraits generated using Stable Diffusion by @RonFish on pikabu.ru. Compiled and edited by Aphra.",
-	"version" : "1.2.1",
+	"version" : "1.2.2",
 	"author" : "Aphra, RonFish",
 	"contact" : "",
 	"modType" : "Graphical",
@@ -10,7 +10,8 @@
 		"1.0.0" : [ "Initial release" ], 
         "1.1.0" : [ "Bug fixes" ], 
         "1.2.0" : [ "Added Tarnum" ],
-        "1.2.1" : [ "Added Catherine (RoE)" ]
+        "1.2.1" : [ "Added Catherine (RoE)" ],
+        "1.2.2" : [ "Czech translation by George King" ]
     },
 	"keepDisabled" : true,
 	"conflicts" :
@@ -22,5 +23,9 @@
 		"portaits packs.vallex portraits",
 		"portaits packs.remastered-portraits",
 		"portaits packs.stablediffusion ai portraits"
-    ] 	
+    ],
+	"czech" : {
+		"name" : "Portréty ze Stable Diffusion",
+		"description" : "Portréty hrdinů vygenerované pomocí Stable Diffusion od @RonFish na pikabu.ru. Sestaveno a upraveno Aphrou."
+	}
 }

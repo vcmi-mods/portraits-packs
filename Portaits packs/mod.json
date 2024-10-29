@@ -1,7 +1,7 @@
 {
 	"name" : "Portraits Packs",
 	"description" : "Portaits packs for standard HoMM3 heroes",
-	"version" : "1.3",
+	"version" : "1.4",
 	"author" : "Various Artists",
 	"contact" : "",
 	"modType" : "Graphical",
@@ -14,6 +14,11 @@
         "1.0"   : [ "Initial release" ],
 		"1.1"   : [ "Added StableDiffusion AI portraits pack" ],
 		"1.2"   : [ "Added Aphra's StableDiffusion AI portraits pack" ],
-		"1.3"   : [ "Added remastered portraits pack by MyroSlave" ]
-    } 	
+		"1.3"   : [ "Added remastered portraits pack by MyroSlave" ],
+		"1.4"   : [ "Czech translation by George King" ],
+    },
+	"czech" : {
+		"name" : "Balíčky portrétů",
+		"description" : "Balíčky portrétů pro standardní hrdiny HoMM3"
+	}
 }

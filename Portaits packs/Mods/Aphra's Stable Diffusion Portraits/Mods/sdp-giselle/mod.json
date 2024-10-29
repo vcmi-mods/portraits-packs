@@ -9,5 +9,9 @@
     "depends" :
     [
         "hota.interference"
-    ]
+    ],
+	"czech" : {
+		"name" : "SDP - Giselle",
+		"description" : "Portrét hrdiny vygenerovaný pomocí Stable Diffusion od @RonFish na pikabu.ru. Kompilováno a upraveno Aphrou."
+	}
 }
